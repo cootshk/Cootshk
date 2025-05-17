@@ -4,6 +4,8 @@ All public repos owned by me are GPLv3+ unless otherwise noted
 
 <img src="https://github-readme-stats.vercel.app/api?username=cootshk&theme=react&show_icons=true&hide_border=false&count_private=true" alt="cootshk's GitHub Stats" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 Find me on:
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/CootshkThe2nd)[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/cootshk)
