@@ -5,6 +5,9 @@
         !DOCTYPE html
         <html>
             <head>
+            <script defer>
+            console.log("test");
+            </script>
             </head>
             <body>
             <p>test</p>
