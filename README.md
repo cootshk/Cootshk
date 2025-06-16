@@ -7,3 +7,5 @@ All public repos owned by me are GPLv3+ unless otherwise noted
 <a href="https://wakatime.com/@Cootshk"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cootshk&layout=compact&theme=catppuccin_mocha&show_icons=true&hide_border=false" alt="Cootshk's Wakatime Stats" /></a>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+<img src="test.svg"/>
